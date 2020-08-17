@@ -12,7 +12,9 @@
         <confirmation_message/>
         <context>record</context>
         <description/>
+        <destination_alp/>
         <destination_screen/>
+        <destination_type/>
         <external_browser>false</external_browser>
         <failure_message/>
         <field_name>active</field_name>
@@ -43,9 +45,9 @@
         <sys_id>bfb032541bf5d4104bea97d01b4bcb39</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TEST</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_button_bfb032541bf5d4104bea97d01b4bcb39</sys_update_name>
         <sys_updated_by>slx.gs</sys_updated_by>
         <sys_updated_on>2020-06-30 14:30:11</sys_updated_on>

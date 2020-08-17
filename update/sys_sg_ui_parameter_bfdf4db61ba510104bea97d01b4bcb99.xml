@@ -11,6 +11,8 @@
         <input_style>inline</input_style>
         <input_type>list</input_type>
         <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
         <multi_select>false</multi_select>
         <name>Usuario Afectado</name>
         <order>200</order>
@@ -25,9 +27,9 @@
         <sys_id>bfdf4db61ba510104bea97d01b4bcb99</sys_id>
         <sys_mod_count>24</sys_mod_count>
         <sys_name>Usuario Afectado</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_bfdf4db61ba510104bea97d01b4bcb99</sys_update_name>
         <sys_updated_by>slx.gs</sys_updated_by>
         <sys_updated_on>2020-06-30 14:36:25</sys_updated_on>

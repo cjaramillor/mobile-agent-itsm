@@ -14,7 +14,9 @@
         <confirmation_message/>
         <context>record</context>
         <description>Funcion reabrir solicitante</description>
+        <destination_alp/>
         <destination_screen/>
+        <destination_type/>
         <external_browser>false</external_browser>
         <failure_message/>
         <field_name/>
@@ -45,9 +47,9 @@
         <sys_id>28b240701bfd18104bea97d01b4bcb42</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Rechazar Solución</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_button_28b240701bfd18104bea97d01b4bcb42</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-01 17:24:04</sys_updated_on>

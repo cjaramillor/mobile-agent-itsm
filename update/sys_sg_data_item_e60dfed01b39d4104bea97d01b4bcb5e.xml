@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>SLX Nuevo INC</name>
         <query_condition table="incident">^ORDERBYnumber<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
         </query_condition>
@@ -13,9 +14,9 @@
         <sys_id>e60dfed01b39d4104bea97d01b4bcb5e</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>SLX Nuevo INC</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_data_item_e60dfed01b39d4104bea97d01b4bcb5e</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-13 19:42:49</sys_updated_on>

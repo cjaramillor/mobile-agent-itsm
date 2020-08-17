@@ -6,7 +6,8 @@
         <external_browser>false</external_browser>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
-        <icon display_value="american-sign-language-interpreting">14132ea71bb158104bea97d01b4bcbcd</icon>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="">14132ea71bb158104bea97d01b4bcbcd</icon>
         <name>Encuestas</name>
         <relative_url>true</relative_url>
         <roles_override/>
@@ -16,9 +17,9 @@
         <sys_id>02a691831bb994104bea97d01b4bcb82</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Encuestas</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_browser_screen_02a691831bb994104bea97d01b4bcb82</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-10 15:51:16</sys_updated_on>

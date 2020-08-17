@@ -15,7 +15,9 @@
         <confirmation_message/>
         <context>record</context>
         <description>Comentar tarea de catálogo</description>
+        <destination_alp/>
         <destination_screen/>
+        <destination_type/>
         <external_browser>false</external_browser>
         <failure_message/>
         <field_name/>
@@ -46,9 +48,9 @@
         <sys_id>5c84fa281bc65c104bea97d01b4bcbb4</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Comentar Tarea</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_button_5c84fa281bc65c104bea97d01b4bcbb4</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-13 19:42:18</sys_updated_on>

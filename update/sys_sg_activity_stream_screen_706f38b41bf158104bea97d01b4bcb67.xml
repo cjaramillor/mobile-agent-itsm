@@ -8,6 +8,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>background</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon/>
         <name>History</name>
         <roles_override/>
@@ -17,9 +18,9 @@
         <sys_id>706f38b41bf158104bea97d01b4bcb67</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>History</sys_name>
-        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_package display_value="ITSM Agent" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
         <sys_policy/>
-        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_scope display_value="ITSM Agent">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
         <sys_update_name>sys_sg_activity_stream_screen_706f38b41bf158104bea97d01b4bcb67</sys_update_name>
         <sys_updated_by>slx.gs2</sys_updated_by>
         <sys_updated_on>2020-07-09 20:20:22</sys_updated_on>
