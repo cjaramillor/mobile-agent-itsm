@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Requerimientos vista solicitante</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Clipboard">d71e73e81bbd18104bea97d01b4bcbce</icon>
+        <name>Ritm Solicitante</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>slx.gs2</sys_created_by>
+        <sys_created_on>2020-07-01 14:46:42</sys_created_on>
+        <sys_id>571e3fe81bbd18104bea97d01b4bcbaa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ritm Solicitante</sys_name>
+        <sys_package display_value="CCA Móvil" source="x_cdmaa_cca_m_vil">19c045fe1b2510104bea97d01b4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCA Móvil">19c045fe1b2510104bea97d01b4bcbe5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_571e3fe81bbd18104bea97d01b4bcbaa</sys_update_name>
+        <sys_updated_by>slx.gs2</sys_updated_by>
+        <sys_updated_on>2020-07-01 14:47:49</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=571e3fe81bbd18104bea97d01b4bcbaa"/>
+</record_update>
